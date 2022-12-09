@@ -1,0 +1,5 @@
+name: Joinlistener
+version: '${project.version}'
+main: de.nezz.joinlistener.Main
+api-version: 1.19
+authors: [ nezz ]
