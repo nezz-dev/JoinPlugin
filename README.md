@@ -1,4 +1,4 @@
-# Joinplugin
+# Join Plugin
 > Plugin for ShulkerGames.net
 ## Features
 - Removes the player join message
